@@ -37,7 +37,7 @@ My name is Ricardo Ariel. I am looking for an opportunity to enter the job marke
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>  
   
-  ### How to contact me:
+  ### How to reach me:
   <div>
   <a href="https://www.linkedin.com/in/ricardo-ariel-souza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ricardoacs89@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
