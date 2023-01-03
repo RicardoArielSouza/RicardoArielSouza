@@ -21,7 +21,7 @@ My name is Ricardo Ariel. I am looking for an opportunity to enter the job marke
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoArielSouza&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
-  ### Stacks and technologies: 
+  ### Stacks and tools: 
 <div style="display: inline_block"><br>
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
