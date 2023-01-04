@@ -22,7 +22,7 @@ My name is Ricardo Ariel. I am looking for an opportunity to enter the job marke
 </div>
 
   ### Stacks and tools: 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
