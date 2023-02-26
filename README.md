@@ -7,9 +7,9 @@ My name is Ricardo Ariel. I am looking for an opportunity to work again after ma
 
 #### About me:
 - 💻 I'm currently undergraduating in Computer Engineering and Digital Security.
-- ☕ I’m currently learning Java, Python and Cybersecurity.
+- ☕ I’m currently learning Cloud, Python and Cybersecurity.
 - 💡 I’m looking to collaborate on any open source project.
-- 🔭 I'm searching for a job as back-end developer.
+- 🔭 I'm searching for a job in Cybersecurity.
 - 🎓 You can ask me anything, I'll gladly answer if I can.
 
 
