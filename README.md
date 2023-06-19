@@ -3,7 +3,7 @@
 
 
 
-My name is Ricardo Ariel. I am looking for an opportunity to work again after making a career transition to technology. My aim is to promote the development of safer and more efficient software.
+My name is Ricardo Ariel. I am looking for an opportunity to work again after making a career transition to TI. My aim is to promote Cybersecurity and Security Driven Development.
 
 #### About me:
 - 💻 I'm currently undergraduating in Digital Security.
