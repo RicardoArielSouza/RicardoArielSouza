@@ -6,11 +6,11 @@
 My name is Ricardo Ariel. I am looking for an opportunity to work again after making a career transition to TI. My aim is to promote Cybersecurity and Security Driven Development.
 
 #### About me:
-- 💻 I'm currently undergraduating in Digital Security.
-- ☕ I’m currently learning Kotlin and Cybersecurity.
+- 💻 I have a degree in Digital Security.
+- ☕ I’m currently learning Cybersecurity with a focus on networks and mobile devices.
 - 💡 I’m looking to collaborate on any open source project.
 - 🔭 I'm searching for a job in Cybersecurity.
-- 🎓 You can ask me anything, I'll gladly answer if I can.
+- 🎓 I know how to program in Kotlin and Java.
 
 
 
@@ -25,11 +25,14 @@ My name is Ricardo Ariel. I am looking for an opportunity to work again after ma
 <div style="display: inline_block">
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 </div>  
   
   ### How to reach me:
