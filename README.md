@@ -7,7 +7,7 @@ My name is Ricardo Ariel. I am looking for an opportunity to work again after ma
 
 #### About me:
 - 💻 I have a degree in Digital Security and a MBA in Cloud Computing.
-- ☕ I’m currently learning Cybersecurity with a focus on networks and mobile devices.
+- ☕ I’m currently learning AI associated with Cybersecurity.
 - 💡 I’m looking to collaborate on any open source project.
 - 🎓 I know how to program in Kotlin, Python and Java.
 
